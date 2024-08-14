@@ -1,5 +1,5 @@
 import './PhotoComponent.css'
-import PerfumeImg from '../../assets/perfume.jpg'
+import PerfumeImg from '/assets/perfume.jpg'
 function PhotoComponent() {
     return (
         <div id="PhotoDiv">

@@ -1,5 +1,5 @@
 import './DetailsComponent.css'
-import CartIcon from '../../assets/icon-cart.svg'
+import CartIcon from '/assets/icon-cart.svg'
 
 function DetailsComponent() {
     return (
