@@ -8,6 +8,21 @@
     row-gap: 20px;
     border-radius: 0 10px 10px 0;
 }
+@media only screen and (max-width: 768px){
+    #DetailsDiv{
+        width: 400px;
+        border-radius:10px;
+        margin-bottom: 100px; 
+    }
+  }
+  @media only screen and (max-width: 600px){
+    #DetailsDiv{
+        width: 400px;
+        border-radius:10px;
+        margin-bottom: 100px;
+    }
+  }
+
 #title{
     color:  hsl(228, 12%, 48%);
     letter-spacing: 4px;
